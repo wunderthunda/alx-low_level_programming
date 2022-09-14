@@ -2,7 +2,6 @@
 /**
  * jack_bauer - print every minutes of the day
  *
- * @n : letter to print
  *
  * Return: Always 0
  */
