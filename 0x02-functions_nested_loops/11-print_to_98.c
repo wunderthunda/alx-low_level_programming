@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_to - print to
+ * print_to_98 - print natrural number from n - 98
+ *
+ * @n : starting point
  *
  * Return: Always 0
  */
