@@ -3,7 +3,8 @@
 /**
  * int_add - add
  *
- * @n : print
+ * @num1 : print
+ * @num2 : print 
  *
  * Return: Always 0
  */
