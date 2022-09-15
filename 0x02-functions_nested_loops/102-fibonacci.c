@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - print out 50 fibonacci suit numbers
  *
  * Return: Always 0
