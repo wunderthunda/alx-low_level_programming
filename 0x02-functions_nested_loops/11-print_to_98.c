@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_to - print to 
+ * print_to - print to
  *
  * Return: Always 0
  */
