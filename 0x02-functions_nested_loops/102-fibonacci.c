@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**
+/*i*
  * main - print out 50 fibonacci suit numbers
  *
  * Return: Always 0
@@ -20,7 +20,7 @@ int main(void)
 		if (inc == 49)
 			printf("\n");
 		else
-			printf(",");
+			printf(", ");
 	}
 	return (0);
 }
