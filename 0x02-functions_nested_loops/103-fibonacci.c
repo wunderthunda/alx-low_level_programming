@@ -1,10 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - printssum of even fibonacci suit element fibonacci suit numbers
+ ** main - printssum of even fibonacci
+ ** suit elements
  *
- * Return: Always 0
- */
+ ** fibonacci suit numbers
+ *
+ ** Return: Always 0
+ **/
 int main(void)
 {
 	unsigned long n1 = 0, n2 = 1, n3 = 0, sum = 0;
