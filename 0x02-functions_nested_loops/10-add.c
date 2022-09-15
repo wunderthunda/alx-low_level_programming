@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * int_add - add
+ * int_add - add num1 and num2
  *
  * @num1 : print
- * @num2 : print 
+ * @num2 : print
  *
  * Return: Always 0
  */
