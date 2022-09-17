@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 /**
- * _isupper - Check for upper case letter
- *
- * @c : string to check
- *
- * Return: 0
- */
+* _isupper - Check for upper case letter
+*
+* @c : string to check
+*
+* Return: 0
+*/
 int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
