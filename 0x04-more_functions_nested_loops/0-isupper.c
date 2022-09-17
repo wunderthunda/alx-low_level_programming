@@ -6,7 +6,7 @@
  *
  * @c : string to check
  *
- * return: 0
+ * Return: 0
  */
 int 0-isupper(int c)
 {
