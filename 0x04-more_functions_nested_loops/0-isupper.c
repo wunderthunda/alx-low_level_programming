@@ -1,10 +1,14 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
 * _isupper - Check for upper case letter
+*
 * @c : string to check
+*
 * Return: 0
 */
+
 int _isupper(int c)
 {
 
