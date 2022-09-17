@@ -8,7 +8,7 @@
  * Return: 0 || 1
  */
 
-int _idigit(int c)
+int _isdigit(int c)
 {
 	if (c >= 48 && c <= 57)
 	{
