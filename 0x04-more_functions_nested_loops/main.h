@@ -3,4 +3,4 @@
 
 int _isupper(int c);
 
-#endif
+#endif /*HEADER_FILE*/
