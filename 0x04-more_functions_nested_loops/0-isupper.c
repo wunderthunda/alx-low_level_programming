@@ -8,7 +8,7 @@
  *
  * Return: 0
  */
-int 0-isupper(int c)
+int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
 	{
