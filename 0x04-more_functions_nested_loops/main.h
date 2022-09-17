@@ -1,6 +1,6 @@
 #ifndef HEADER_FILE
 #define HEADE_FILE
 
-int _isupper(int c);
+int 0-isupper(int c);
 
 #endif
