@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 /**
- * _strcpy - copies the string pointed to by src, including the terminating null byte, to the buffer pointed to by dest
+ * _strcpy - copies the string pointed to by src,
+ * including the terminating null byte,
+ * to the buffer pointed to by dest
  *
  * @dest : Destination
  * @src : source
@@ -18,9 +20,9 @@ char *_strcpy(char *dest, char *src)
 	{
 		*(dest + count) = *(src + count);
 		if (*(src + count) == '\0')
-				break;
-			count++;
-	
+			break;
+		count++;
+
 	}
 	return (dest);
 }
