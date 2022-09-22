@@ -5,7 +5,7 @@
  * _strncat - concatinate two strings
  *
  * @dest: where string will be added
- * @src; where strings will be taken
+ * @src: where strings will be taken
  * @n: number of bytes to take src
  *
  * Return: 1;
